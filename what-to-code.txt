@@ -1,0 +1,1169 @@
+What To Code:
+https://what-to-code.com
+Pages Written:17
+
+Title: Todo List
+	Description: It's a todo list.
+	likes: 1315
+
+Title: Snake
+	Description: If you had a cellphone in the early 2000s, you’ve probably played Snake. It’s a simple game but you can always try to make things more complex! First, start by just trying to make the game.
+	likes: 751
+
+Title: Discord bot
+	Description: Try creating a discord bot
+	likes: 551
+
+Title: A simple HTTP Server
+	Description: During our web development journey, all of us would have used a web server in one way or the other (MAMP, Apache, Node Server etc). But you would get a better understand of how the server works if you implement one on your own. Learn socket programming and try to give it a shot and see if you can serve web pages
+	likes: 472
+
+Title: Maze Generator
+	Description: This project is a versatile introductory exercise in goal-setting and problem solving. It’s also open-ended enough that there are lots of ways to go about it. Find a way to randomly generate a maze, and then create an algorithm that will navigate through the maze and successfully reach the maze’s exit. A popular method to accomplish both is the genetic algorithm, a not-quite-brute-force way of training your program to solve problems (which means you’re making AI!). Bob Nystrom has a particularly great guide on generating mazes and dungeons.
+	likes: 393
+
+Title: An array sorter
+	Description: Make a program that can take any array and sort it to be in the proper order. You can try different sorting algorithms and use statistics libraries like matplotlib for python to visualize the sorting.
+	likes: 354
+
+Title: A programming language
+	Description: Make a parser for simple expressions like CallFunction(Argument1, Argument2), variables, maybe some loops, return statements and more.
+	likes: 257
+
+Title: A simple terminal app for reddit
+	Description: While using reddit on the website/app is nice, sometimes it would be great to have it on the terminal removing all of the additional clutter like ads etc. The terminal app should allow a user to browse various subreddits and view comments and post comments and so on (but the sky's the limit).
+	likes: 250
+
+Title: Audio Visualizer
+	Description: Trippy graphics reacting to music
+	likes: 239
+
+Title: Chat App
+	Description: A Real-time chat app where you can chat without a login
+	likes: 212
+
+Title: Personal Website
+	Description: Make a website for yourself. 
+	likes: 186
+
+Title: A What to Code? copy cat
+	Description: You don’t always need to try to reinvent the wheel when creating your own projects. Simple projects like a site that lets you browse ideas, submit project descriptions, and lets you scroll through a feed, provides an opportunity to create a solid base site first. Then you can add lots of interesting features like tags, trending, liking, and search.
+
+
+	likes: 170
+
+Title: Virtual Pet Simulator
+	Description: For those who are missing the cute factor in their work, a virtual pet simulator is a fun standard project. First pick a type of creature like an animal or some type of monster to design, but beginners can start with a basic circle to represent the pet. Once you’ve chosen your concept, give your pet a name, age, and other properties like health and happiness. You might also want to keep in mind physics concepts like movement, gravity, and inertia. Depending on your experience and whether you’re opting for a 2D or 3D model, your pet and its background can come many different ways. You can also customize features on your pet, like programming specific responses to stimuli. This is a great project because you can continuously revisit and improve as you develop your skills.
+	likes: 159
+
+Title: Tetris
+	Description: Create a Tetris game! Sure, it has been done a million times, but it's really interesting to try to make it!
+	likes: 156
+
+Title: Recipe
+	Description: You might not have realized this, but recipe’s are nothing more than culinary algorithms. Like programs, recipe’s are a series of imperative steps which, if followed correctly, result in a tasty dish.
+The objective of the Recipe app is to help the user manage recipes in a way that will make them easy to follow.
+	likes: 131
+
+Title: Contact Book
+	Description: Create a contact book project. Data has to be saved in a database.
+	likes: 126
+
+Title: A 2D Platformer
+	Description: Make a player that falls to the ground and collides with it. Make him be able to jump and walk left and right.
+	likes: 124
+
+Title: A grid-based fluid/sand simulation
+	Description: Each particle falls to the ground if nothing is beneath it, but fluids flow to the closest hole.
+	likes: 116
+
+Title: Advent of code event. 
+	Description: Do some advent of codes from past years, good practice for any language you wish, and fun. 
+https://adventofcode.com/
+	likes: 114
+
+Title: Message Board With Users
+	Description: Make a simple single-paged message board. It can be publicly viewable, but users must create a profile and sign-in for them to be able post. 
+	likes: 100
+
+Title: Port a library to a new language
+	Description: 
+	likes: 95
+
+Title: Conway's GameOfLife
+	Description:  It is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. You just have to observe how it evolves.
+How it works :
+        Every cell, which are placed on a grid, interacts with its eight neighbours, which are the cells that are horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:
+    - Any live cell with fewer than two live neighbours dies, as if by underpopulation.
+    - Any live cell with two or three live neighbours lives on to the next generation.
+    - Any live cell with more than three live neighbours dies, as if by overpopulation.
+    - Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
+	likes: 91
+
+Title: Virus simulator
+	Description: Build a model of a population being exposed to a virus. 
+	likes: 89
+
+Title: Pseudo Currency
+	Description: Create your own bank!
+Allow people to create/be assigned accounts, transfer money, view their/others transactions with different filters, view their balance over time, etc.
+Interfacing with this system could be via a website, a programmatic API, a chat bot (Discord, Slack, Telegram), or a few or all of these things!
+The system for the creation of money can be as simple as a daily allowance, or some other thing you can come up with yourself!
+	likes: 80
+
+Title: Minesweeper
+	Description: The classic Minesweeper game that was on Windows XP is a nice little project with some interesting challenges
+	likes: 76
+
+Title: A drawing program
+	Description: Make a program where you can draw, erase, change the color, etc.
+	likes: 73
+
+Title: A JSON encoder/decoder
+	Description: JSON is JavaScript's perhaps most important contribution to Computer Science. Many programming languages have a library for serializing its native data structures to JSON and back, but rolling your own can be an interesting exercise. Try following the standard to the letter so you can reuse the code as a library later on but feel free to add optional features that can be enabled.
+	likes: 72
+
+Title: A 9GAG copy cat
+	Description: You don’t always need to try to reinvent the wheel when creating your own projects. Simple projects like a site that lets you login, post photos, GIFs, and lets you scroll through a feed, provides an opportunity to create a solid base site first. Then you can add lots of interesting features like following, liking, and search.
+	likes: 70
+
+Title: Stack Overflow clone with actual answers
+	Description: A new stack overflow where you get banned if you post a question and follow it up with "nevermind, figured it out" or "marked duplicate" and points back to a question with no answers
+	likes: 65
+
+Title: Clothing proposer depending on weather
+	Description: Get weather information from an API and give users information about what to wear (jacket neccesary, t-shirt or sweater etc). Users could also save their personal preferences which would affect their calculations.
+	likes: 65
+
+Title: Stack Overflow clone with actual answers
+	Description: A new stack overflow where you get banned if you post a question and follow it up with "nevermind, figured it out" or "marked duplicate" and points back to a question with no answers
+	likes: 65
+
+Title: A simple encryption program
+	Description: 
+	likes: 61
+
+Title: Invoice and contract management system
+	Description: Contract and invoice management are very complex processes. Contracts can have a lot of nuanced clauses and stipulations that can be difficult to track.
+This makes this a very good project, even if you simplify it to some of its core components. Having to translate a complex business process into software is not easy. But it is what makes this project a good challenge.
+Again, we wouldn’t overcomplicate this. Take a basic feature, like inputting the terms of a contract, and develop this part first. Then you can add other features like invoice tracking, contract analytics and forecasting.
+	likes: 59
+
+Title: Calculator
+	Description: Code up a clone of the windows calculator. It’s great practice for GUIs and basic math operation. And if it helps you solve your algebra homework - all the better!
+	likes: 56
+
+Title: Rocket steering simulator 
+	Description: Create a simulation where you have to safely steer a rocket from one place to another. Possible steering options are controlling the tilt and the thrust (nothing more). Terrain should make it a challenge. The landing has to be safe, the velocity should be low, and the tilt at the end almost 0.
+
+Additional challenge: write an AI that does the steering
+	likes: 56
+
+Title: a what-to-code clone
+	Description: Try creating a clone of this website, with additional features and modifications!
+	likes: 52
+
+Title: A mod to your favorite game
+	Description: Do you have a favorite game? You might as well try to modify its code to whatever you want. You may add new features, mess around, or delete any feature.
+	likes: 52
+
+Title: Code a Compression Algorithm
+	Description: Start small implementing RLE and test on a few log files.
+It can get quite complicated with Hoffman Coding.
+
+	likes: 50
+
+Title: Simple Online Card Game
+	Description: Develop a simple card game like Blackjack or even Poker, you can learn how to implement sockets and make the game multiplayer if you want. The game can go from ASCII to even a nice GUI, it's up to you. Optional, you can also make a leaderboard based on win percentage and number of wins and make a fully playable online game.
+	likes: 50
+
+Title: Clone GNU coreutils
+	Description: Implement your own echo, cat, wc, head, tail, and whatever other popular command line utilities you can find! Great for learning a languages standard library, as you need I/O, argument parsing, and lots of string processing 
+	likes: 49
+
+Title: Text based dungeon crawler game
+	Description: Procedurally generated dungeon crawler with RPG elements all done in the console.
+	likes: 48
+
+Title: A keylogger
+	Description: A keylogger that can log the keypresses to a file and email them to you
+	likes: 48
+
+Title: GUI for Network Traffic
+	Description: Wireshark shows you all the traffic on a network, categorized by standard and other data. But, it’s mostly in text form. Try to make a GUI that would be useful to someone like a sysadmin or developer to see patterns in network traffic visually.
+	likes: 48
+
+Title: Minecraft Clone
+	Description: Try making a Minecraft clone! It's fun, and a great way to learn!
+	likes: 45
+
+Title: A URL Shortener
+	Description: 
+	likes: 41
+
+Title: Password Generator
+	Description: Using Kivy (python) framework, build a mobile application, which generates a password.
+	likes: 40
+
+Title: Learn API
+	Description: Use some kind of cloud api to upload files automatically to google/onedrive/your favorite cloud.
+	likes: 40
+
+Title: Code a game simulator
+	Description: simulate your fav game
+	likes: 40
+
+Title: Recreate the moon lander game
+	Description: Recreate the old moon lander game. http://moonlander.seb.ly/ is a great example
+	likes: 40
+
+Title: A Gameboy Emulator in Javascript
+	Description: A fun project to learn about the ins and outs of emulation. Javascript is the language of the internet and is fast enough now to run decent emulation. First focus on getting it working and then work on performance improvements.
+	likes: 39
+
+Title: Home AI
+	Description: Create a private build of modern AIs like Amazon Alexa and Google Home.
+
+To make the task even more difficult, make sure the AI loads up a website (aka dashboard) where you can find logs and AI's runtime status. You could also create a mobile app for the AI to make it a little bit easier to trasmit specific data.
+	likes: 39
+
+Title: Fake weather forecast
+	Description: Create a frontend (mobile/web) for weather forecast based on random values and see how many people take it for real
+	likes: 38
+
+Title: Discord Bot ToDolist
+	Description: Create a Discord bot that holds a TODO list in a database.
+This can be done by using Discord.js or Discord.py
+There are also less known examples for Java etc
+	likes: 37
+
+Title: A mood journal app
+	Description: A journal app, where you track your daily mood and write a short journal about the most important events of the day
+	likes: 37
+
+Title: Desktop App
+	Description: Use Electron.js to build a desktop app that can do anything, from a game to a timer, and even a notepad or something.
+	likes: 37
+
+Title: online text editor
+	Description: make a. simple text editor giving the people a simple way to write simple code of html & css & javascript 
+make a cool design with light & dark mode that will motivate the user more
+	likes: 36
+
+Title: Job Board
+	Description: Any project that forces you to allow users to input as various types of users adds an interesting design aspect. How will you ensure that the way employers experience the site meets their needs vs. prospecting job searchers? Like most of the other projects, you don’t need to focus on all of it at once. Start out by trying to create the ability to create a job posting first. Then you can go and focus on the job searchers and how they respond.
+	likes: 35
+
+Title: A 3D point cloud renderer
+	Description: Use a simple formula to calculate the 2d location of a 3d point and a rotation matrix to rotate the points around the camera.
+
+Rotation formula:
+x' = x * cos(α) - y * sin(α)
+y' = y * cos(α) + x * sin(α)
+
+Projection formula:
+x' = x / z
+y' = y / z
+	likes: 34
+
+Title: Random News
+	Description: Create a website that simulates a newspaper or a news website, but fetch all headers, texts and images from different random sources. Maybe it's funny
+	likes: 33
+
+Title: Learn Hacking
+	Description: Go on tryhackme.com and do some hacking!
+	likes: 33
+
+Title: Windows 10 UI in HTML and CSS
+	Description: 
+	likes: 32
+
+Title: A Reddit alternative
+	Description: Create a reddit alternative where people can create posts and reply to said posts.
+Extra points if it isn't just a "Reddit but with(out) xxxx" but tries something new.
+	likes: 32
+
+Title: Medication Reminder
+	Description: Make it remind you to take your medication.
+I gotta take that Sertraline and Lamotrrigine homie
+	likes: 31
+
+Title: Timetracking App
+	Description: A timetracker for Mac and Windows, which tracks your working time. You can tag your tracked times and label them into projects. A nice visualization of your time invested thoughout the day would be also nice.
+	likes: 30
+
+Title: Chat Application
+	Description: Make a small chat application to share with your friends and talk with them on it!
+	likes: 30
+
+Title: Escape game Website
+	Description: Make an escape game inside a website (be creative!).
+	likes: 30
+
+Title: Hospital Bed Availability Website
+	Description: An application where in all the city hospitals enter the availability of the vacant beds and ICUs in their hospitals, and users can login to check availability and rush to the nearest one with available bed or ICU.
+	likes: 30
+
+Title: A typeracer.com Clone
+	Description: 
+	likes: 29
+
+Title: An Immediate Mode GUI library
+	Description: Code a GUI library without using OOP (classes/interfaces) to represent widgets. Instead, use functions with arguments for widgets(ex. button("Hello", ...)). Start with basic widgets like button, text, image or slider.
+Bonus: Try to make the library's style customizable by the user at runtime.
+	likes: 29
+
+Title: A raycaster!
+	Description: Raycasting is a simple way to create 3D graphics and has been used to make various games, like Wolfenstein and Doom.
+	likes: 29
+
+Title: Automatic Image Generator
+	Description: generate random images
+	likes: 29
+
+Title: Create a Web Server 
+	Description: https://www.digitalocean.com/community/tutorials/how-to-create-a-web-server-in-node-js-with-the-http-module
+
+very good article just go through this once
+	likes: 28
+
+Title: Browser Extension
+	Description: 
+	likes: 28
+
+Title: Random Coordinates Generator
+	Description: Make an application where you set the coordinates and a radius, and it then will generate a random location within that radius. I might just make one 'cause I live in the middle of nowhere :D
+	likes: 28
+
+Title: Random Youtube Video Generator
+	Description: Make a program that generates a random youtube video ID, and detects if it's a real video, and when it finds a real one it prints it in the terminal.
+	likes: 28
+
+Title: Interest
+	Description: How many people have the same interest as you?
+An interesting project to make is an anonymous website where people can see how many people share interests.
+Also, make it so it says one in this many people
+	likes: 28
+
+Title: Create a Web Server 
+	Description: https://www.digitalocean.com/community/tutorials/how-to-create-a-web-server-in-node-js-with-the-http-module
+
+very good article just go through this once
+	likes: 28
+
+Title: Old Game Clones
+	Description: Create a clone of an old game. Like pacman, tetris, or space invaders.
+	likes: 28
+
+Title: A Game
+	Description: Snake game where you are the food.
+	likes: 27
+
+Title: a Discord Bot
+	Description: discord bots are fun, you can choose to make them serious or a joke. maybe add some helpful commands like banning or muting.
+	likes: 27
+
+Title: Mini Google Translate
+	Description: Your program take an English sentence and translate it into a natural language of choice. The translation should work with at least the top 100 most used verbs in English, top 100 most used nouns in English, top 100 most used adjectives in English, etc
+	likes: 27
+
+Title: A Playlist Maker
+	Description: Allow users to input their favorite songs and create a playlist based on specific features (mood, artist, etc.)
+	likes: 27
+
+Title: what-to-code client
+	Description: Terminal application for what-to-code where you can like or post ideas through your terminal
+	likes: 27
+
+Title: Discord bot
+	Description: Make a bot from scratch using v8 api
+	likes: 27
+
+Title: A Minecraft mod
+	Description: Create a mod for Minecraft using Forge Library
+	likes: 26
+
+Title: A Quiz!
+	Description: Try making a quiz in python, or just any language u want!
+	likes: 26
+
+Title: Anti IP Logger
+	Description: Create a tool which proxifies each connection and then creates requests to an IP-Logger website. Spoof user-agent on each request. Print back status codes and mark them as either successful or not.
+
+format: IP | Location | <status_code>
+	likes: 26
+
+Title: Telegram bot
+	Description: Try creating a Telegram bot.
+	likes: 26
+
+Title: Playlist Website
+	Description: Try to make a website where you can listen to your favourite music and sounds with functions like: Shuffle, Volume, Autoplay etc.
+	likes: 26
+
+Title: Size of Universe Calculator
+	Description: Make it so you can calculate the universe size in lightyears and watch is change as it expands
+	likes: 26
+
+Title: Screenshot manager
+	Description: Tool for making screenshots and saving them. With/without a cursor, delay. Fullscreen/rectangular region. Then you can add annotations (drawing on it before saving).
+
+Basically - Spectacle clone. It's written in C++, you can try the same lang, use easier option - Python, or harder - Rust
+	likes: 25
+
+Title: Make a bot for your favorite chat app
+	Description: It could be used to fetch information or do stuff.
+	likes: 25
+
+Title: 2048 Game
+	Description: 
+	likes: 25
+
+Title: Code Challenges
+	Description: Code your own code challenges to challenge other coders
+	likes: 25
+
+Title: Speed of Light
+	Description: Make a program where it says how far in space energy has traveled from a certain amount of time and the chances aliens have seen it based on how many lightyears it is
+	likes: 25
+
+Title: Emergency
+	Description: To prevent and prdeiction of accidents or emergency
+	likes: 25
+
+Title: Basic Window Manager
+	Description: A systems programming rite of passage. Create a basic window manager for your Linux or BSD of choice.
+
+Use tinywm as a starting point with bare-bones functionality and then add what you want.
+	likes: 25
+
+Title: A Harry Potter Sorting hat
+	Description: You make a sorting hat.
+	likes: 25
+
+Title: tic tak tok game
+	Description: use Socket.IO to implement real time tic tak tok game.
+can play online using simple 4 character code.
+when win show rematch button for both
+	likes: 25
+
+Title: Make Minecraft
+	Description: Make Minecraft using Java
+	likes: 25
+
+Title: Scratch 
+	Description: On https://scratch.mit.edu/ it’s free so join 
+	likes: 24
+
+Title: Secure foler
+	Description: Create a program that will generate a secure folder for your data. Alongside that, the program will generate two additional files: 'lock' & 'unlock'. When launched 'lock', the application silently runs and encrypts every file which is placed in that specific folder. In order to unlock files, the user will have to run 'unlock' file, which will ask for a password and when entered it should send the password to another silent application to check if it is correct. If it is - files will be unlocked and if not, the application will silently shutdown.
+
+The catch: This application should initialize a small local webserver, to which you should connect. You'll have to set up things there, such as password and amount of incorrect tries along with what will be done if that's the case.
+	likes: 24
+
+Title: Find sum of digits of a positive number in O(1) complexity.
+	Description: 
+	likes: 24
+
+Title: Make a noteboard
+	Description: A simple note board to help organize your thoughts
+	likes: 24
+
+Title: Physics Simulator
+	Description: Create a game/program that simulates real physics. You can add objects, add an object pushing it, with real formulas, such as terminal velocity, force, kinetic energy, etc.
+	likes: 24
+
+Title: meditation app
+	Description: a very simple meditation app to help with calm breathing
+	likes: 24
+
+Title: Find sum of digits of a positive number in O(1) complexity.
+	Description: 
+	likes: 24
+
+Title: Make a noteboard
+	Description: A simple note board to help organize your thoughts
+	likes: 24
+
+Title: A tic tac toe AI
+	Description: Code a tic tac toe AI robot that plays against you.
+Hint: use minmax
+	likes: 24
+
+Title: Make a website!
+	Description: Try making a simple website using HTML, CSS, and JavaScript!
+<script>
+alert("Good luck");!
+</script>
+	likes: 24
+
+Title: Note taking app
+	Description: Something similar to OneNote for Windows 10 except it has no login, no paid for service and is on a website and/or electron application
+	likes: 24
+
+Title: Paint With UG
+	Description: Hey You all have used MS-Paint in your life this a paint application in c language which help you learn how to create complex project in c 
+	likes: 23
+
+Title: ASCII to All Converter
+	Description: Make a web based application where you enter ASCII text and it will convert it into all.
+And it changes as you type.
+	likes: 23
+
+Title: Dice Roller
+	Description: Create a dice roller version, but make it use OpenCV.
+	likes: 23
+
+Title: YouTube video downloader
+	Description: 
+	likes: 23
+
+Title: Text Adventure Game
+	Description: Try making an adventure game in the command line with Python or every other language you like!
+	likes: 23
+
+Title: The Enigma Machine
+	Description: If you have seen The Imitation Game or heard of Alan Turing from elsewhere, you have probably heard of the German encryption device from the world war II. Try to implement the Enigma machine with a graphical interface or just a command line tool. There are simulators online that you can use for testing.
+	likes: 23
+
+Title: A network game
+	Description: Network games contain a range of interresting problems
+	likes: 22
+
+Title: Car Locator
+	Description: This project should be running on a device like Raspberry Pi or even an Arduino. It should also have a GSM anthenna attached to (you'll have to manually do that if you're also doing the hardware part). A SIM card port attached to your mini-pc device.
+> Your car locator should be able to automatically read and activate SIM cards; It should be able to also connect to open WiFi points in range to save mobile data; It should also detect the amount of power that's left in the power bank and based on it go into power-saving mode; Your code should keep looking for incoming text messages and when one received it should send coordinates of the car to the owner's number (include a whitelist of phone numbers);
+	likes: 22
+
+Title: Sorting visualizer
+	Description: Visualise different sorting algorithms, like bubble sort, quicksort, merge sort.
+	likes: 22
+
+Title: Dashboard
+	Description: Add lin e graphs, text, everything, buttons and more with basic html and css.
+	likes: 22
+
+Title: Car Locator
+	Description: This project should be running on a device like Raspberry Pi or even an Arduino. It should also have a GSM anthenna attached to (you'll have to manually do that if you're also doing the hardware part). A SIM card port attached to your mini-pc device.
+> Your car locator should be able to automatically read and activate SIM cards; It should be able to also connect to open WiFi points in range to save mobile data; It should also detect the amount of power that's left in the power bank and based on it go into power-saving mode; Your code should keep looking for incoming text messages and when one received it should send coordinates of the car to the owner's number (include a whitelist of phone numbers);
+	likes: 22
+
+Title: A network game
+	Description: Network games contain a range of interresting problems
+	likes: 22
+
+Title: Make something you already made but in a different language. 
+	Description: 
+	likes: 22
+
+Title: Anonymous Forum Layout
+	Description: Make a layout for an anonymous forum website, and open-source
+	likes: 22
+
+Title: Text encryption and decryption algorithm
+	Description: Create an algorithm which encrypts and decrypts text. Make sure all ANSI characters (spec chars, emojies, etc) are also encrypted. To solve this task, you could actually create a map of characters.
+	likes: 22
+
+Title: Hex Editor
+	Description: In your web browser
+	likes: 21
+
+Title: Build something with OMDb (Open Movie Database) API
+	Description: Build a tool, where you can add and save your seen movies for example.
+http://www.omdbapi.com/
+	likes: 21
+
+Title: Website within a website
+	Description: Build a website within a website.
+	likes: 21
+
+Title: A word counting function
+	Description: Counts the words in a .txt file and prints out the most common ones. Alternatively, add userinput for searching how many times a given word appears in the text.
+	likes: 21
+
+Title: Currency Exchange Rate Watchdog (CERW)
+	Description: This CERW tool should be able to read data from various websites and compare it and if required it should also find the average. After the data has been handled with, it should display the data to a secured local website and save it into database. Website should be able to handle various charts and it should show the graph of price rising and falling.
+	likes: 21
+
+Title: A Personal Raspberry Pi Tablet
+	Description: Use a Raspberry Pi computer and tablet case to make your own personal tablet. Code your own operating system, user interface, and apps.
+	likes: 21
+
+Title: Linux Distro
+	Description: A linux distribution, you can modify a pre-existing distribution or create your own from scratch.
+	likes: 21
+
+Title: Vacation planer
+	Description: A vacation planer for a workplace where you can submit vacation requests and admin/boss can accept/reject requests. You should be able to view some sort of calendar showing the vacation periods you requested and if they ar erejected or not and also see colleagues vacations. Examples of functionality to add might be different types of absence and department support.
+	likes: 21
+
+Title: A fantasy RPG 
+	Description: Something like Zelda or Genshin. You have an open world fantasy game, and you go on lots of adventures and it's really fun to play .__.
+	likes: 21
+
+Title: Your favorite tabletop games
+	Description: lots of choices
+risk, battleship, monopoly you name it
+
+roll for initiative!
+	likes: 21
+
+Title: Renting platform
+	Description: Build a renting platform-website using Flask. Store all user information in a database, but do not forget to hash sensitive data using Argon2.
+	likes: 21
+
+Title: Websocket Application
+	Description: Make a program that allows the user to create a websocket server within a terminal emulator, and can use it for stuff, for example: An anonymous chat application.
+	likes: 21
+
+Title: A Random Generator
+	Description: Create either a random number or word or any other generator!
+	likes: 21
+
+Title: Never have I ever
+	Description: Anyone can anonymously post never have I ever questions, and anyone can anonymously pick I have, or I have not. Maybe add some anonymous comments to the questions. Put it on a site for people to mess around with or laugh at some weird questions lmao.
+Also, make it so it says  the percentage when you click on an option.
+	likes: 21
+
+Title: Make a happiness app for Windows, or as a website.
+	Description: You could create an app that makes you happy, for example, with meditation exercises, make a self-reflection system, etc. I think that it could be cool to make this for windows, or even as a website which could be a cool challenge!
+	likes: 21
+
+Title: Pong
+	Description: Code the classic Pong game.
+	likes: 21
+
+Title: Reddit RSS Feed
+	Description: A good way to train the use of APIs is to train using the RSS feature of Reddit. Create a dynamic feed that gets the most recent posts and maybe even comments from each post.
+	likes: 20
+
+Title: PDF Reader
+	Description: We all read PDFs of books but it takes quiet an effort, why not make a program to read out the content so to make the reading process effortless.
+	likes: 20
+
+Title: Hello, World!
+	Description: Learn how to make the famous "Hello, World!" in as many programming languages as possible.
+
+:)
+
+	likes: 19
+
+Title: Make a app
+	Description: make an app then release to iOS or android
+	likes: 19
+
+Title: Anonymous chatroom
+	Description: Make a chatroom that is completely anonymous, no logs, using websockets.
+	likes: 18
+
+Title: Caesar Cipher encryption
+	Description: A simple mono alphabetic substitution cipher. Takes plaintext and a modulus (how many places to shift the alphabet by) as input, and outputs the ciphertext. Good project to get familiar with converting characters to numbers.
+	likes: 18
+
+Title: Torrent client
+	Description: This blog post can be a good starting point: https://blog.jse.li/posts/torrent/
+	likes: 18
+
+Title: A Background Color Changer
+	Description: Tap a button, changes the background color to a random hex color.
+	likes: 17
+
+Title: Encrypted image generator 
+	Description: Create a mobile app that takes some text as input then outputs an encrypted image (could just be encrypted text that a user then prints) that other can then decrypt when they apply the correct key. 
+	likes: 17
+
+Title: Krust
+	Description: Write some kernel mode rust. This could be a driver, a vfs node, or a full on x86 kernel. The choics is yours!
+	likes: 17
+
+Title: Ticketing software
+	Description: A ticketing software, where users log in and submit an issue, then some IT guy takes the issue and solves it.  
+Each ticket has a state, date of submission, date of resolution, the user who submitted it, the tech guy who solved it and a list of events and comments.
+Bonus: provide some form of reporting, e.g. the ability to see all tickets of a user, all tickets open, all tickets assigned to a tech guy...
+	likes: 17
+
+Title: Overlay Anything
+	Description: Software that can draw on top of anything (for example on top of full screen games)
+Overwolf kind of does this but hooks into games own draws I belive
+	likes: 17
+
+Title: A reddit bot
+	Description: A simple bot that can do stuff on reddit via a mention
+	likes: 17
+
+Title: File Managing
+	Description: Try to code making files, writing into txt files and so on
+	likes: 16
+
+Title: A activist Website
+	Description: Find a cause that you want to support and research about that topic and design a good website for everyone to learn from and see.
+	likes: 16
+
+Title: Fractals
+	Description: Code a program to visualize the Mandelbrot fractal. Bonus points if you can zoom in/out and add colours.
+	likes: 16
+
+Title: Learn shader programming
+	Description: glslsandbox.com is a treasure trove of visually pleasing examples you can build on using only your browser. Conway's game of life or julia sets are interresting. 
+
+http://glslsandbox.com/e#23869.0
+http://glslsandbox.com/e#4476.0
+
+Move on to raymarching
+
+http://glslsandbox.com/e#29120.11
+
+Its nice to do something visual
+	likes: 16
+
+Title: MP3 player
+	Description: Make a MP3 player using your fav programming language
+	likes: 16
+
+Title: A Web Browser
+	Description: So put like a search bar and when they search something send the answer to Google API and they will give the answer to your question and you can make an account I will call it WebSpace you know I like space
+	likes: 16
+
+Title: A Timetable
+	Description: An editable timetable that you can add different events for different times on different days for the week, 2 weeks or month. What ever features you can think of
+	likes: 16
+
+Title: App to maintain your daily expenses 
+	Description: App will include daily expenses with categories like groceries, shopping etc. With all the chart filter according to monthly,weekly category wise and sync with multiple platforms 
+	likes: 16
+
+Title: Xbox emulator
+	Description: Emulator would be cool way to know how original Xbox processed graphics. Good intro to system architecture 
+	likes: 16
+
+Title: Simon
+	Description: A memory game!
+	likes: 16
+
+Title: Create a logic gate simulator
+	Description: Make a simulator that allows you to add different logic gates such us "and", "not" , ect... You can make it controlled by a console, but try to go for something where you can drag nodes around, select what nodes top create, and connect them using the mouse. Here is an example: https://academo.org/demos/logic-gate-simulator/
+	likes: 16
+
+Title: Make a bot that can beat a game you have created
+	Description: Just take any game( can be recreations too!) and make it be able to be played as a bot.
+	likes: 16
+
+Title: A Screen recorder
+	Description: 
+	likes: 16
+
+Title: Binary2Dec
+	Description: Binary-to-Decimal number converter
+	likes: 14
+
+Title: Tetris Clone
+	Description: Create a Tetris Clone on the Command line
+	likes: 14
+
+Title: A Fractal Tree
+	Description: A tree where each branch splits into two. Just google what a fractal tree is. You can use techniques like recursion to make this.
+	likes: 14
+
+Title: Google Drive Clone
+	Description: Cross platform Google Drive or Dropbox clone hosted on the cloud. 
+	likes: 14
+
+Title: Geloaction python script
+	Description: Make a geolocations python script that finds your current location and plots it on a map💻
+	likes: 14
+
+Title: Extension for your code editor
+	Description: Being able to write the extension you need can be invaluable. I recommend vscode since it has a well documented api, many official extension samples and a lot of open source extension while also being very customizable and extensions are written in typescript.
+
+You can use the samples as a starting point. My recommended project would be a plugin the validates (underlines invalid values) and offers completions for custom configuration files. You can also use the language server protocol to write it as a server in a different language (java: lsp4j, rust: tower-lsp, javascript: vscode-languageserver-node)
+	likes: 14
+
+Title: An App Store
+	Description: An App Store you code something and then put that into a list of games that people can see
+	likes: 13
+
+Title: Shopping List Optimizer
+	Description: Application that allows one to input a shopping list along with graphs of grocery stores that model the alleys and location of the products.
+Will then print out the optimal order in which to pickup the products.
+Can be extended to allow adding multiple shops to the map and it will choose the nearest that sells the necessary things. 
+	likes: 13
+
+Title: A Code Editor
+	Description: It could be something like VSC, PyCharm, Atom, or Eclipse. You should be able to write code, upload files, use a built-in terminal (it's annoying to keep switching windows), add extensions, and so on. Oh, make it open-source and free!
+	likes: 13
+
+Title: A Paste Site
+	Description: Something like https://paste.sh/
+	likes: 13
+
+Title: Learn Data Structures and Algorithms, then implement them in your favorite language.
+	Description: 
+	likes: 13
+
+Title: Sound volume analyzer
+	Description: Goal: Visualize the sound volume of a track
+Use-cases: Easy navigation through the song or making statistics of your favourite music
+
+Bonus points for using FFT to calculate the actual human hearable volume.
+	likes: 13
+
+Title: Simple array implementation
+	Description: Write a simple array class in C++
+Implementing adding and removing items, responsible for its own pointers.
+	likes: 13
+
+Title: A Markdown parser / converter
+	Description: Markdown is a lightweight markup language with plain-text-formatting syntax.
+	likes: 12
+
+Title: Space Station 13 clone
+	Description: 
+	likes: 12
+
+Title: A reddit bot that posts comments mentioning the subreddit
+	Description: For example a subreddit /r/thathappened exists. When a user makes a comment "/r/thathappened" a post with the text and link of parent comment is created in /r/thathappened
+	likes: 11
+
+Title: Check list on Scratch
+	Description: When flag clicked set which one to [0] when sprite clicked ask [] change which one by [1] if which one = 1 then show variable 1 set 1 to [answer] if which on = 2 then show variable 2 set 2 to [answer] if which one = 1 show when sprite clicked switch to next costume when flag clicked switch costume to costume 1 show when sprite clicked switch to next costume when flag clicked switch costume to costume 1 if which one = 2 show when sprite clicked switch to next costume when flag clicked switch costume to costume 1 show when sprite clicked switch to next costume when flag clicked switch costume to costume 1
+	likes: 11
+
+Title: Chatbot 
+	Description: Chat bot which can help you to destroy anyone's  loneliness great act of humanity 
+	likes: 11
+
+Title: An r/place clone
+	Description: "Place was a collaborative project [...]. The experiment involved an online canvas [...], which registered users could edit by changing the color of a single pixel from a 16-colour palette. After each pixel was placed, a timer prevented the user from placing any pixels for a period of time varying from 5 to 20 minutes" -- https://en.wikipedia.org/wiki/Place_(Reddit)
+	likes: 11
+
+Title: A super user friendly coordinate converter
+	Description: If you're a geocacher you know that you can get coordinates that looks very different because they are using very different coordinate systems. Managing the transition from a geocaching app to Google Maps for instance is a pain because most systems that help you with that aren't exactly helpful if you're note already very into the world of coordinate systems. Make a tool so that anyone can do the task with ease.
+	likes: 11
+
+Title: A sign language translator 
+	Description: Takes in an image of a letter in sign language and translates it into text. 
+	likes: 11
+
+Title: A Static Site Generator
+	Description: Create a static site generator like Gatsby or Jekyll. Make it generate from Markdown, and then as a bonus, create it for RST.
+	likes: 11
+
+Title: Image to text for blind people with translations
+	Description: Make an app which allows one to upload images  or click and image and using any image detection library OpenCV etc to find text in it. Use an inbuilt speech engine to speak that text. Have support for non English languages too. It will teach a lot more about text internationalization 
+	likes: 10
+
+Title: Website making tool
+	Description: 
+	likes: 10
+
+Title: Try out making something similar to a popular website as a command line app
+	Description: This works particularly good in python. Just hook up a database and go!
+	likes: 10
+
+Title: Reddit Media downloader
+	Description: With newer reddit apps, it becomes difficult to download assets.. It could be cool to have some kind of tool that automatically download assets.
+	likes: 10
+
+Title: A framework for solving grid-based puzzles
+	Description: There are lot of grid-based puzzle games which would benefit if it has a solver as well.
+Some games are like Sokoban, or Push the Machine, etc.
+A generatlized way to solve puzzles in this category would be helpful.
+
+Sokoban : https://play.google.com/store/apps/details?id=com.rafaelwmartins.pushbox&hl=en_IN
+
+Push Machine : https://play.google.com/store/apps/details?id=com.reactor.pushingmachine&hl=en
+	likes: 9
+
+Title: cooking recipes
+	Description: simple cooking recipes with html
+	likes: 9
+
+Title: Speech Analytics Tool
+	Description: An application that uses NLP algorithms in the background to  transcribe speech into text and has capability to perform queries over certain phenomenons on the recorded audio.
+	likes: 9
+
+Title: Grammar 
+	Description: So you put a sentence and then the words with red underlines if you click on them then it will say how to spell that correctly
+
+#GRAMER
+	likes: 9
+
+Title: Job Application Tracker
+	Description: A simple app to hold information related to contact information, dates, and reminders to make follow-up phone calls and/or e-mails. 
+	likes: 9
+
+Title: Shopping list app with crowd sourced location of items in stores
+	Description: Shopping list app that tracks where people are in the store when they check an item off so that the location items stores can be crowd sourced
+
+With the resulting crowd sourced data set the app can do things like:
+
+Guide you to the next item
+Arrange the items in the optimal pickup list in the store
+
+	likes: 9
+
+Title: Make a moving triangle with openGL!
+	Description: It's up to you witch language you should use for this project:
+
+OpenGL is an low level graphics API that has a lot of graphics functionalities.
+ 
+Links:
+https://nl.wikipedia.org/wiki/OpenGL
+https://learnopengl.com/
+
+good luck!
+	likes: 9
+
+Title: Animal Crossing Matcher
+	Description: In Animal crossing people can have different items on their island and different prices for fruit. People use reddit currently to sell access to their island for ingame items.
+
+It would be cool if there was an app that you could post details about your island and have a cost of people visiting. Then other people could search for islands they need.
+	likes: 9
+
+Title: An Easy Block Programming Language
+	Description: First, the user has to make an account then they have to click projects to see all the public projects created by people and the user can click on my projects to see all there projects and click the new project, and then they have to name there project and then they have to code it like move up and down left and right play a sound set a variable to 50 then if they want to publish it to the public they have to click publish and it will have instructions description and comments and in the projects, it will show there project
+#Programming Language #Block Programming language
+	likes: 8
+
+Title: Clipboard to send files between different devices
+	Description: As simple as chrome extension which can save your recent copies and send them to your phone through the app and to other desktops with the same extension
+	likes: 8
+
+Title: A LaTeX replacement
+	Description: Make a LaTeX clone / ripoff / replacement.
+	likes: 8
+
+Title: Wayfinder Library
+	Description: Write a library to navigate a map of nodes connected by weighted “edges” such that it finds the shortest possible route between two points.
+	likes: 8
+
+Title: A CSS device
+	Description: Make a device in css like a tablet or a phone or something. You can make an animation for it too. Maybe make it single div?
+	likes: 8
+
+Title: An async, collaborative book writing application
+	Description: It should be possible for somebody to start writing a book or document and for anybody to fork it, make modifications and suggest for the changes to be reintegrated.
+
+Users should be able to vote for the fork/branch they like and for readers to pick which one they want to read. This would make it possible to have original works and fan-fiction to be in one place and for the story's universe to evolve any way the community wants it to
+	likes: 8
+
+Title: A 3D raycasting rendering engine
+	Description: 
+	likes: 8
+
+Title: Command Line Shell
+	Description: Using your favorite programming language (better if it's native) to build a simple command line: build a simple tokenizer to tokenize commands.
+Example:
+   Command Line: `echo "long parameter" >> file.txt`
+   Tokens: `
+        keyword echo,
+        string "long parameter",
+        operator >>,
+        identifier file.txt
+    `
+
+	likes: 8
+
+Title: CHIP-8 emulation
+	Description: CHIP-8 serve as a really simulation project to start out, There are a number of classic video games ported to CHIP-8, such as Pong, Space Invaders, Tetris, and Pac-Man. There are also applications like a random maze generator and Conway's Game of Life. So you can have a bunch of ready-to-run for your newly created console.
+	likes: 8
+
+Title: Create an engine for a card game like uno
+	Description: Create an engine which reads player moves and acts according to the player moves.
+	likes: 8
+
+Title: A newtonian body simulator
+	Description: 
+	likes: 8
+
+Title: A social media network
+	Description: So make a log in and they have to put there email and then they have to create a blog or they can see other people’s blog and they can show the most popular blogs if you select popular and if you select not popular to see non popular ones you can even type the blog you want then if you create a blog you have to have a name and you and other people around the world can post comments and same with watching blogs you can become famous by following blogs and liking the blogs  and when the people who followed the blogs want to not forget an update it could have a sound effects and you can delete your blogs
+	likes: 8
+
+Title: A setup.py to main.yml coverter
+	Description: Takes data from the setup.py file in a python package and creates a main.yml file for anaconda packages. This can help convert existing python packages and make them anaconda packages too. Oh, make it open source and free!
+	likes: 8
+
+Title: A Dedicated Server For A Game (TCP) Private Server
+	Description: A private server for any game using the TCP protocol.
+	likes: 7
+
+Title: Smart Light API
+	Description: Make a webserver that can control smart lights (or other smart appliances) with their api and make it accessible through a webserver.
+	likes: 7
+
+Title: A commabd-line video duplicate detector
+	Description: Similar to fdupes, but for content-aware duplicate detection.  Compares video content in an encoding/frame-rate/resolution independent way.  The CV library has several content-aware functions for comparing images (pHash, etc).  Loop frames using CV at an interval, and compare each frame.  Take the average of all frames, and you'll know how similar the video content was.  This is a lot easier than it sounds, and 
+	likes: 7
+
+Title: Maze Image Parser
+	Description: A potential follow-up for "Maze Generator" (https://what-to-code.com/?order=POPULAR&tag=maze)
+
+Create a parser that generates and draws a maze from an image. 
+
+It should be able to read an image`s pixels one by one and convert them to maze tiles: 
+
+Dark pixel - Wall, 
+White pixel - Path tile.
+White edge pixel - Start/End.
+
+
+
+	likes: 7
+
+Title: A text based mmorpg
+	Description: Try making an mmorpg like WoW or runescape but make it entirely text based and played from the terminal
+	likes: 7
+
+Title: Part of speech color highlighter for assisting in reading and writing
+	Description: Just like there is colour highlighting for code, you can do this with natural language, such as labelling subjects and verbs a certain color. There are existing projects, but they're not quite user friendly. iA Writer (paid program), English Edward io (free, but source code is closed), EvanHahn (free and open source, but can't choose colors).
+	likes: 7
+
+Title: Collaborative policy writing tool
+	Description: Policies go through rounds of making suggestions, discussing them and applying them by a vote until a final document is reached and ratified. 
+
+Suggestions contain a diff of suggested changes and their tree-like comment thread. A voting method (instant run-off or first past the post) can be defined for each round.
+
+Once the max number of rounds has been reached, no suggestions have been made or none have been voted on, the document can be declared final.
+	likes: 7
+
+Title: Accent recorder
+	Description: Software recognizes speech and records pitch or inflection.  Then is able to render text that reflects the intonation of the words.  Think of printing each letter of a word on a musical bar cleft or squishing or stretching the letters in appropriate ways.  This would allow for accents to be recorded and analyzed.  Maybe actors could use this tool to nail performances. I dont know if this is in the realm of possibilities or perhaps already exists but it would be cool!
+	likes: 6
+
+Title: A new calculator
+	Description: 
+	likes: 6
+
+Title: make toggle photo gallery
+	Description: 
+	likes: 6
+
+Title: A web page to send values to raspberry pi 
+	Description: A web page by which we can send alphanumeric values to Raspberry pi 4 so we can trigger the GPIO pins and hence execute different programs.
+
+	likes: 5
+
+Title: A pong game
+	Description: make a simple pong game
+	likes: 4
+
+Title: Make a submit your favorite things form
+	Description: Use HTML, JavaScript, CSS, PHP anything just make something for fun.
+	likes: 4
+
+Title: nvAlt but for Android and iOS
+	Description: Plaintext text quick search notew. Keep each note in separate files that way they're very portable and grepable. User uses their own sync mechanism to sync with PC/Mac/cloud. 
+
+nvAlt is a better clone of Notational Velocity.
+	likes: 4
+
+Title: Grep clone
+	Description: Start with a simple app that searches for text in files.
+Enhancements:
+- Recurse into subdirectories
+- Regex patterns
+- Parallel searching using threads
+- Replace option
+- Fancy output formatting (dump to json, show context)
+- File memory mapping
+- Unicode support
+
+This is a really flexible project that helps understanding concepts like:
+- System calls (file opening, directory listing, memory maps, threads)
+- Unicode handling
+- Regular expressions
+- Multithreading
+
+All of the following can be implemented using libraries or even manually.
+	likes: 4
+
+Title: A clone of git
+	Description: ever heard of git? well why not do that! its really fun
+	likes: 3
+
+Title: Metaballs animation
+	Description: "In computer graphics, metaballs are organic-looking [...]surfaces, characterised by their ability to meld together when in close proximity to create single, contiguous objects. This "blobby" appearance makes them versatile tools, often used to model organic objects and also to create base meshes for sculpting." -- https://en.wikipedia.org/wiki/Metaballs
+
+https://upload.wikimedia.org/wikipedia/commons/6/6d/Metaball_contact_sheet.png
+https://upload.wikimedia.org/wikipedia/commons/8/8b/Metaballs.png
+
+A good explaination video:
+"How Computers Draw Weird Shapes" by Reducible
+https://www.youtube.com/watch?v=6oMZb3yP_H8
+	likes: 3
+
+Title: A browser
+	Description: Using Kivy framework, build a web browser which allows you to spoof your useragent and to control what website can see about you. Implement a fingerprint spoofer and log shredding function too.
+	likes: 3
+
+Title: Parser of any data with reddit
+	Description: Create a data parser from a reddit that will parse, for example, upvotes.
+	likes: 3
+
+Title: CSS Grid sandbox game.
+	Description: Sandbox in CSS Grid, html & javascript, try to make sand fall by moving doen the grid & etc.
+	likes: 3
+
+Title: space invaders
+	Description: make a space invaders game but their penises
+	likes: 3
+
+Title: Shredder
+	Description: Using Kivy framework, build a mobile app. Inside the app, there should be a button and once pressed it should shred logs and sensitive data off mobile device using secure algorithms. Add an option to choose one of the algorithms to use for shredding. Should be working in both root and non-root modes.
+	likes: 3
+
+Title: A ledger clone
+	Description: Simple ledger-cli (or similar) clone. Make it as advanced or straightforward as you desire.
+https://www.ledger-cli.org/
+https://plaintextaccounting.org/#plain-text-accounting-apps
+	likes: 3
+
+Title: Reality Check Reminder
+	Description: Reminder to check your reality for lucid dreaming.
+	likes: 2
+
+Title: A Gif Dump Like Dump.fm
+	Description: Make A Gif Dump Like Dump.fm
+	likes: 2
+
+Title: Rickroll Redirect
+	Description: Redirect a website to the famous Rickroll YouTube video. And give the link and say it's your blog!
+	likes: 2
+
+Title: Is anything real?
+	Description: Reality is an illusion.https://en.wikipedia.org/wiki/Solipsism
+	likes: 2
+
+Title: CMake Clone
+	Description: 
+	likes: 2
+
+Title: A GitHub map of where repositories are posted
+	Description: If you ever wanted to know where the developer for a repository posted it, make this map. 
+	likes: 2
+
+Title: Code A Fun Little Text Game!
+	Description: If you're new to python, try making like a fun little you-decide-the-story game where you must select the right answer using input and if loops.
+	likes: 2
+
+Title: Regex Engine
+	Description: Create a regex engine for your favourite programming language
+	likes: 2
+
+Title: A simple web server
+	Description: Use any framework you want!
+	likes: 2
+
+Title: A Website made from just FreeCodeCamp's Responsive Web Design 
+	Description: 
+	likes: 1
+
+Title: rock paper scissor
+	Description: a fun little game for everyone to decide something
+	likes: 1
+
+Title: Platformer
+	Description: If You Have Heard What A Platformer Game Is Try To Make One!
+	likes: 1
+
