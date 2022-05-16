@@ -2,7 +2,7 @@
 Grabs Every Single Idea from https://what-to-code.com
 I made this when i was bored soooo.
 
-##How to setup:
+## How to setup:
 
 run
 ``npm run setup``
